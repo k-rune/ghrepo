@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   gh-mychart2:
   - apiVersion: v2
+    appVersion: 4.0.0
+    created: "2024-10-09T16:20:59.217890452Z"
+    description: A Helm chart for Kubernetes
+    digest: fd906e86a77cf2a247ae84a1ca79e4f03c26cb1920b9e8644140f3cafe468be0
+    name: gh-mychart2
+    type: application
+    urls:
+    - https://github.com/k-rune/ghrepo/releases/download/gh-mychart2-0.4.0/gh-mychart2-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
     appVersion: 3.0.0
     created: "2024-10-09T16:16:13.966567228Z"
     description: A Helm chart for Kubernetes
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/k-rune/ghrepo/releases/download/gh-mychart2-0.1.0/gh-mychart2-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-09T16:16:13.966594108Z"
+generated: "2024-10-09T16:20:59.217906632Z"
